@@ -5,9 +5,6 @@ public class type {
         System.out.println(name);
         System.out.println(num);
 
-
-
-
     }
     
 }
