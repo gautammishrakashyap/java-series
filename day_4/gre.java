@@ -13,7 +13,7 @@ public class gre {
             
         }
         else if (b>a & b>c) {
-            System.out.println(b);
+            // System.out.println(b); #re
             
         }
         else{
