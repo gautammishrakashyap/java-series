@@ -12,7 +12,8 @@ public class three {
 
         a = a + b;
         b = a - b;
-        a = a - b;
+        a = a - b; 
+        // change
 
         System.out.println("a is " +a+ " b is "+ b);
 
