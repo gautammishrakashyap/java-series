@@ -19,7 +19,6 @@ public class three {
 
         System.out.println("a is " +a+ " b is "+ b);
 
-
         
     }
     
